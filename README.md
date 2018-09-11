@@ -1,6 +1,6 @@
 # GuildWars2Racing (Early work in progress)
 Create custom mount races for Guild Wars 2 (unofficial) 
-![](https://tr7zw.de/gw2races/demo.png)  
+![](https://tr7zw.de/gw2races/demo.jpg)  
 
 ## Features
 - Checkpoints are visible as flags
